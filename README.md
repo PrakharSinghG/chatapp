@@ -1,6 +1,6 @@
-# newapp
+# Chat Application
 
-A new Flutter project.
+A messaging app built with Flutter and Firebase, offering real-time communication.
 
 ## Screenshots
 
