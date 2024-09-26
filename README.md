@@ -1,16 +1,12 @@
-# newapp
+# Chat Application
 
-A new Flutter project.
+A messaging app built with Flutter and Firebase, offering real-time communication.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/438537fc-5aca-404b-87c2-40afba3581e3" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/fdd981c8-29a0-4d71-b545-dd0ec81b2b07" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/3fc666f5-673c-4d57-97ef-e4933f1cdd9f" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/7b6cfdbe-233b-4ad1-bbc4-1cb6596b0cc0" width="200" height="400" />
