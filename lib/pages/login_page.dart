@@ -87,7 +87,12 @@ class LoginPage extends StatelessWidget {
                   ),
                 ),
               ],
-            )
+            ),
+            const SizedBox(height: 25),
+            ElevatedButton(
+              onPressed: AuthService().signInWithGoogle,
+              child: const Text('Google Sign In'),
+            ),
           ],
         ),
       ),

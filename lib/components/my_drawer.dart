@@ -10,7 +10,7 @@ class MyDrawer extends StatelessWidget {
     final auth = AuthService();
     auth.signOut();
   }
-
+  
   @override
   Widget build(BuildContext context) {
     return Drawer(
